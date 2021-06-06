@@ -5,6 +5,6 @@ A console based Employee-Management-System that stores the data into the databas
 -> Hibernate</br>
 -> MySQL</br>
 -> JPA</br>
--> JUnit
+-> JUnit</br>
 </br>
 Note: Before activation, configuration of database is required in resources/META-INF/persistence.xml
